@@ -13,7 +13,7 @@
 //     Email.send({
 //     Host : "smtp.elasticemail.com",
 //     Username : "grazenata@gmail.com",
-//     Password : "7074E1D098B35FD6FED206BF62D8BB9BCB5E",
+//     Password : "",
 //     To : 'grazenata@gmail.com',
 //     From : "grazenata@gmail.com",
 //     Subject : subject,
